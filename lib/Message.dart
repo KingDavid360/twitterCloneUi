@@ -73,7 +73,7 @@ class _MessageState extends State<Message> {
                   children: [
                     CircleAvatar(
                       backgroundColor: Colors.transparent,
-                      backgroundImage: AssetImage('images/idk.jpeg'),
+                      backgroundImage: AssetImage('images/fab.jpeg'),
                     ),
                   ],
                 ),
