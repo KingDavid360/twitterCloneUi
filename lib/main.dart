@@ -34,7 +34,6 @@ class Main extends StatefulWidget {
 
 class _MainState extends State<Main> {
   int myIndex = 0;
-
   List<Widget> widgetList = const [
     Home(),
     SearchPage(),
