@@ -1,6 +1,5 @@
 # Twitter demo UI
-This project is a clone of twitter ui, consisting of the home, spaces, notification and messeages pages.
-This was designed using flutter.
+This project is a clone of twitter ui, consisting of the home, search, spaces, notification and messeages pages.
 
 ## Programming language
 Flutter was used to develop this project.
