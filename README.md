@@ -1,16 +1,26 @@
-# twitter_clone
+# Twitter demo UI
+This project is a clone of twitter ui, consisting of the home, spaces, notification and messeages pages.
+This was designed using flutter.
 
-A new Flutter project.
+## Programming language
+Flutter was used to develop this project.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+### Home page
+![home_page](https://user-images.githubusercontent.com/80047364/183994852-14f07213-75c0-4fe3-92b2-327692fb7b1a.png)
 
-A few resources to get you started if this is your first Flutter project:
+### Home page with drawer
+![drawer](https://user-images.githubusercontent.com/80047364/183995120-b9100705-70a1-4e10-99d1-a6e379c914f3.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Search page 
+![search](https://user-images.githubusercontent.com/80047364/183995425-e2134ef4-ae5c-40f8-9c46-27675cfc1f0e.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Spaces page
+![space](https://user-images.githubusercontent.com/80047364/183995552-e893edac-e347-42cd-b275-2f75e84ea2f1.png)
+
+### Notifications page
+![notification](https://user-images.githubusercontent.com/80047364/183995841-46a08659-27e3-45c1-a014-f651e9a79d74.png)
+
+### Messages page
+![messages](https://user-images.githubusercontent.com/80047364/183995945-0a3281bd-f947-4a15-8d9b-b32db36178a2.png)
