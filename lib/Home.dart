@@ -17,7 +17,7 @@ class _HomeState extends State<Home> {
     'BeLimitless',
     'TheComponents'
   ];
-  final List<String> dp = <String>['europa.png', 'star.png', 'models.png'];
+  final List<String> dp = <String>['europa.png', 'star.png', 'models.JPG'];
   final List<String> handle = <String>[
     '@euro... 50min',
     '@limit... 1h',
@@ -266,8 +266,9 @@ class _NavigationDrawerWidgetState extends State<NavigationDrawerWidget> {
                   ListTile(
                     leading: Container(
                       height: 70,
-                      width: 50,
+                      width: 60,
                       child: CircleAvatar(
+                        radius: 35,
                         backgroundImage:
                             AssetImage('images/profile_photo.jpeg'),
                       ),
@@ -277,19 +278,25 @@ class _NavigationDrawerWidgetState extends State<NavigationDrawerWidget> {
                       color: Colors.white,
                     ),
                   ),
-                  Text(
-                    'CHAMPIONES 1️⃣4️⃣',
-                    style: TextStyle(
-                        fontSize: 20,
-                        color: Colors.white,
-                        fontWeight: FontWeight.bold),
+                  Padding(
+                    padding: const EdgeInsets.only(
+                      left: 0,
+                      top: 8.0,
+                    ),
+                    child: Text(
+                      'CHAMPIONES 1️⃣4️⃣',
+                      style: TextStyle(
+                          fontSize: 20,
+                          color: Colors.white,
+                          fontWeight: FontWeight.bold),
+                    ),
                   ),
                   Text(
                     '@kingdavid.ee',
                     style: TextStyle(color: Colors.grey),
                   ),
                   Padding(
-                    padding: const EdgeInsets.all(8.0),
+                    padding: const EdgeInsets.symmetric(vertical: 8.0),
                     child: Row(
                       children: [
                         Text(
